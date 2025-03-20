@@ -58,6 +58,10 @@ npm install
 
 
 
+
+
+
+
 Start Backend
 
 cd Backend_RecipeManagement
@@ -69,6 +73,18 @@ API will be available at:
 https://localhost:5001/swagger/index.html
 
 
-
+Dependencies used :
+Frameworks:
+ .AspNetCore.App
+ Microsoft.NETCore.App
+Packages:
+ BCrypt.Net-Next (4.0.3)
+ Microsoft.AspNetCore.Session (2.3.0)
+ Microsoft.EntityFrameworkCore (9.0.3)
+ Microsoft.EntityFrameworkCore.SqlServer
+(9.0.3)
+ Microsoft.EntityFrameworkCore.Tools (9.0.3)
+ Microsoft.Extensions.Caching.Memory (9.0.3)
+ Swashbuckle.AspNetCore (6.6.2)
 
 
