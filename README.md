@@ -76,7 +76,9 @@ https://localhost:5001/swagger/index.html
 Dependencies used :
 Frameworks:
  .AspNetCore.App
+
  Microsoft.NETCore.App
+
 Packages:
  BCrypt.Net-Next (4.0.3)
  Microsoft.AspNetCore.Session (2.3.0)
