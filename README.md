@@ -53,8 +53,11 @@ Database Name:    RecipeDB
 
 
 Server Name: 192.168.163.121,1433
+
 Authentication: SQL Server Authentication
+
 Username: remote_user
+
 Password: StrongPassword123
 
 
