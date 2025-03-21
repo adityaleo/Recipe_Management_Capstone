@@ -44,7 +44,7 @@ appsettings.json:
 
 
 "ConnectionStrings": {
-  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=RecipeDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  "DefaultConnection": "Server=DESKTOP-VRQKG3B;Database=RecipeDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 
 
